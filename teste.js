@@ -8,7 +8,7 @@ l.width = 099;
 function funcao(){
     
    dinheiro += 1; 
-    let txt = "dinheiro: "+ dinheiro
-   cu.textContent = txt;
+  
+   cu.textContent = "dinheiro: "+ dinheiro;
     
 }
